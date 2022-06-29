@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,EACE,WAAY,CACZ,wBAA4B,CAC5B,iBAAkB,CAClB,iBAAkB,CAClB,UAAoB","file":"main.9ffa6676.chunk.css","sourcesContent":["p {\n  width: 150px;\n  border: 2px solid darkorange;\n  border-radius: 5px;\n  text-align: center;\n  color: rebeccapurple;\n}\n"]}
